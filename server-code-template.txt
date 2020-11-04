@@ -1,0 +1,11 @@
+Hello {EMAIL}!
+
+You've been issued a server code for use use with the PDL Cloudproc
+course. Please use the code and guide below to setup your Google Cloud Platform account.
+
+Server Code: {SERVER_CODE}
+
+Setup guide: https://docs.google.com/document/d/1fL-jxw7BpbHjgJvUvBtReIJsCqW__zu3AT0XFZyfSq4
+
+Best,
+Paul
